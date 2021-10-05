@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @michaltyczynski1993
+- 👋 Hi, I’m Michał Tyczyński
 - 👀 I’m interested in game development.
 - 🌱 I’m currently learning Unity and C#
 - 📫 How to reach me m.tyczynski1993@gmail.com
