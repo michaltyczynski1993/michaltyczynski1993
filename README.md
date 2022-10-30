@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michał Tyczyński
-- 👀 I’m interested in game development, Python programming and tests automation
-- 🌱 I’m currently learning Selenium Web Driver and Flask with Python
+- 👀 I’m interested in Python programming web scraping and web development
+- 🌱 I’m currently learning Javascript, HTML5 and CSS3.
 - 📫 How to reach me m.tyczynski1993@gmail.com
 
 <!---
