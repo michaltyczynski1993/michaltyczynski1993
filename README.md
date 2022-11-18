@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 
 Web Projects
 1. Expense tracker - https://expense-tracker-mtyczynski.netlify.app/
+2. Pomodoro app - https://pomidorapp.netlify.app/
