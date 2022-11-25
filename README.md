@@ -15,5 +15,5 @@ Web Projects
 
 Games (published)
 1. Car Hockey - https://noobsgames.itch.io/car-hockey
-2.Covid Destroyer (Cardboard VR) - https://noobsgames.itch.io/covid-destroyer
+2. Covid Destroyer (Cardboard VR) - https://noobsgames.itch.io/covid-destroyer
 3. Flappy Devil (v.1.0) - https://noobsgames.itch.io/flappy-devil
